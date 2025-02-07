@@ -1,4 +1,4 @@
-Long-term Linux user and contributor. First distro: Fedora 13 (Goddard) back in 2010.
+Long-time Linux user and contributor. First distro: Fedora 13 (Goddard) back in 2010.
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/alexpoone?cardType=level&preferLogin=false)](https://git.io/awesome-stats-card)
 
