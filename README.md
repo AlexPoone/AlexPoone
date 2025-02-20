@@ -2,7 +2,7 @@ Long-time GNU/Linux user and contributor who still thinks `ccsm` (CompizConfigSe
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/alexpoone?cardType=level&preferLogin=false)](https://git.io/awesome-stats-card)
 
-If you appreciate my work, I kindly ask you to consider donating to those affected by war instead.
+If you appreciate my work, I kindly ask you to consider donating to those affected by war instead. I am proud to support Ukraine; more than nine years ago I named a folder `euromaidan` while I was still at school: https://github.com/AlexPoone/giveNtake/tree/master/public
 
 <!--<blockquote cite="https://www.huxley.net/bnw/four.html">
   <p>Lot was dragging his feet. The men grabbed Lot’s arm, and the arms of his wife and daughters—<em>God was so merciful to them!</em>—and dragged them to safety outside the city. When they had them outside, Lot was told, “Now run for your life! Don’t look back! Don’t stop anywhere on the plain—run for the hills or you’ll be swept away.” [...] But Lot’s wife looked back and turned into a pillar of salt.</p>
