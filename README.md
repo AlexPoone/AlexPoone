@@ -1,4 +1,8 @@
-Long-time GNU/Linux user and contributor who still thinks `ccsm` (CompizConfigSettingsManager) is cool. First distro: Fedora 13 (Goddard) back in 2010.
+"Whoever fights monsters should see to it that in the process he does not become a monster." Assume good faith. Respect others. Don't burn bridges (there may not be a second chance).
+
+---
+
+GNU/Linux user and contributor who still thinks `ccsm` (CompizConfigSettingsManager) is cool. First distro: Fedora 13 (Goddard) back in 2010.
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/alexpoone?cardType=level&preferLogin=false)](https://git.io/awesome-stats-card)
 
