@@ -2,7 +2,7 @@
 
 Assume good faith. Respect others. **<ins>Don't burn bridges</ins>** (there may not be a second chance).
 
-**Strong mentality:** Put your eggs in as many baskets as possible. Contrary to popular belief, you'll not become a 'Jack of all trades, master of none' as this promotes lateral thinking. Plus, this reduces your dependence on people: you can wake up <ins>anywhere</ins> and get straight to work.
+**Strong mentality:** Put your eggs in as many baskets as possible. Contrary to popular belief, you'll not become a 'Jack of all trades, master of none' as this promotes lateral thinking. Plus, this reduces your dependence on people: you develop a minset that you can wake up <ins>anywhere</ins> and get straight to work.
 
 **Weak mentality:** Being infleunced by the community spirit of tech evangelism in the 2000s, I usually give altruism a chance and don't mind going the extra mile. But if it doesn't pay off and even wreak havoc upon yourself (strange, isn't it, the Eastern world always talk about 'reciprocity'), just don't force yourself and do yourself a favour. Instead, protect yourself and invest in learning dissimilar things. Who knows what the future will be.
 
