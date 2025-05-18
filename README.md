@@ -2,9 +2,13 @@
 
 Assume good faith. Respect others. **__Don't burn bridges__** (there may not be a second chance).
 
+**Strong mentality:** Put your eggs in as many baskets as possible. Contrary to popular belief, you'll not become a 'Jack of all trades, master of none' as this promotes lateral thinking. Plus, this reduces your dependence on people: you can wake up anywhere and get straight to work.
+
 ---
 
 GNU/Linux user and contributor who still thinks `ccsm` (CompizConfigSettingsManager) is cool. First distro: Fedora 13 (Goddard) back in 2010.
+
+
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/alexpoone?cardType=level&preferLogin=false)](https://git.io/awesome-stats-card)
 
