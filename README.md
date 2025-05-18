@@ -5,6 +5,7 @@ Assume good faith. Respect others. **__Don't burn bridges__** (there may not be 
 **Strong mentality:** Put your eggs in as many baskets as possible. Contrary to popular belief, you'll not become a 'Jack of all trades, master of none' as this promotes lateral thinking. Plus, this reduces your dependence on people: you can wake up anywhere and get straight to work.
 
 **Weak mentality:** Being infleunced by the community spirit of tech evangelism in the 2000s, I usually give altruism a chance and don't mind going the extra mile. But if it doesn't work out, just don't force yourself and give yourself a favour. Instead, protect yourself and invest in learning dissimilar things. Who knows what the future will be.
+
 ---
 
 GNU/Linux user and contributor who still thinks `ccsm` (CompizConfigSettingsManager) is cool. First distro: Fedora 13 (Goddard) back in 2010.
