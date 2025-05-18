@@ -1,4 +1,4 @@
-"Whoever fights monsters should see to it that in the process he does not become a monster." Assume good faith. Respect others. **<ins>Don't burn bridges</ins>** (there may not be a second chance).
+"Whoever fights monsters should see to it that in the process he does not become a monster." Assume good faith. Respect others. **<ins>Don't burn bridges</ins>** (there may not be a second chance, please drop your hubris).
 
 **Strong mentality:** Put your eggs in as many baskets as possible. Contrary to popular belief, you'll not become a 'Jack of all trades, master of none' as this promotes lateral thinking. Plus, this reduces your dependence on people: you develop a mindset that you can wake up <ins>anywhere</ins> and get straight to work.
 
