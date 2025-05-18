@@ -2,7 +2,7 @@
 
 **Strong mentality:** Put your eggs in as many baskets as possible. Contrary to popular belief, you'll not become a 'Jack of all trades, master of none' as this promotes lateral thinking. Plus, this reduces your dependence on people: you develop a mindset that you can wake up <ins>anywhere</ins> and get straight to work.
 
-**Weak mentality:** Being infleunced by the community spirit of tech evangelism in the 2000s, I usually give altruism a chance and don't mind going the extra mile. But if it doesn't pay off and even wreak havoc upon yourself (Strange, innit? The Eastern world always talk about 'reciprocity' and many great ideas, but how often do they turn into realities?), just don't force yourself and do yourself a favour. Instead, protect yourself and invest in learning dissimilar things. Who knows what the future will be.
+**Weak mentality:** Being infleunced by the community spirit of tech evangelism in the 2000s, I usually give altruism a chance and don't mind going the extra mile. But if it doesn't pay off and even wreaks havoc upon yourself (Strange, innit? The Eastern world always talk about 'reciprocity' and many great ideas, but how often do they turn into realities?), just don't force yourself and do yourself a favour. Instead, protect yourself and invest in learning dissimilar things. Who knows what the future will be.
 
 ---
 
