@@ -1,4 +1,6 @@
-"Whoever fights monsters should see to it that in the process he does not become a monster." Assume good faith. Respect others. Don't burn bridges (there may not be a second chance).
+"Whoever fights monsters should see to it that in the process he does not become a monster."
+
+Assume good faith. Respect others. **Don't burn bridges** (there may not be a second chance).
 
 ---
 
